@@ -1,3 +1,4 @@
 Ovo je fajl 2 sad.
-Druga linija ovog fajla.
+Druga linija ovog fajla. I dodali smo jos nesto.
 Dodamo novu liniju.
+
