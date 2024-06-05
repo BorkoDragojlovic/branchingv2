@@ -1,4 +1,4 @@
-Ovo je fajl 2 sad.
+Ovo je fajl 2 sad i dodatak na prvoj liniji.
 Druga linija ovog fajla. I dodali smo jos nesto.
 Dodamo novu liniju.
 
