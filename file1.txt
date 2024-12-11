@@ -1,2 +1,4 @@
 This is first lin of file. Add more context to the line
 This is second line of file
+
+I also want to add text on part of file that is not changed in other branches.
