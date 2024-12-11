@@ -1,2 +1,2 @@
-This is first lin of file
+This is first lin of file. Add more context to the line
 This is second line of file
